@@ -4,9 +4,9 @@
 
 ## Results 
 ### Three major points from the two analysis:
-- #### - There is no major difference in average temperature for June and December; closely to 4 degrees in difference
-- #### - The June temperatures seem to be closely similar throughout the month and a lower standard deviation 
-- #### - The December temperatures are high, but not as close throughout the month like June; one point that indicates this observation is by the standard deviation 
+- #### There is no major difference in average temperature for June and December; closely to 4 degrees in difference
+- #### The June temperatures seem to be closely similar throughout the month and a lower standard deviation 
+- #### The December temperatures are high, but not as close throughout the month like June; one point that indicates this observation is by the standard deviation 
 <img width="268" alt="December Summary Statistics" src="https://user-images.githubusercontent.com/86431959/131168047-7f6330cc-0519-45f2-827a-d1f179eda3af.png">  <img width="230" alt="June Summary Statistics" src="https://user-images.githubusercontent.com/86431959/131168163-3e278be1-7715-418b-8d0b-8d418d13c716.png">
 
 ## Summary
